@@ -1,0 +1,18 @@
+{
+"textConfig": {
+"details": "SAL - San Andreas Lobby (Freeroam/Stunt/Derby/Race)",
+"state": "https://salobby.eu"
+},
+"imageConfig": {
+"smallKey": "1",
+"largeKey": "salw",
+"smallText": "Sowad",
+"largeText": "SAL - San Andreas Lobby",
+"showButton": true
+},
+"timeConfig": {
+"timeType": "none",
+"whatTime": "6969s"
+},
+"clientID": "257775882687610880"
+}
